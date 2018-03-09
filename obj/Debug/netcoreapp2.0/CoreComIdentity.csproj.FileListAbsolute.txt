@@ -1,0 +1,12 @@
+C:\Users\carlosjunior\Documents\Visual Studio 2017\Projects\CoreComIdentity\CoreComIdentity\bin\Debug\netcoreapp2.0\CoreComIdentity.deps.json
+C:\Users\carlosjunior\Documents\Visual Studio 2017\Projects\CoreComIdentity\CoreComIdentity\bin\Debug\netcoreapp2.0\CoreComIdentity.runtimeconfig.json
+C:\Users\carlosjunior\Documents\Visual Studio 2017\Projects\CoreComIdentity\CoreComIdentity\bin\Debug\netcoreapp2.0\CoreComIdentity.runtimeconfig.dev.json
+C:\Users\carlosjunior\Documents\Visual Studio 2017\Projects\CoreComIdentity\CoreComIdentity\bin\Debug\netcoreapp2.0\CoreComIdentity.dll
+C:\Users\carlosjunior\Documents\Visual Studio 2017\Projects\CoreComIdentity\CoreComIdentity\bin\Debug\netcoreapp2.0\CoreComIdentity.pdb
+C:\Users\carlosjunior\Documents\Visual Studio 2017\Projects\CoreComIdentity\CoreComIdentity\obj\Debug\netcoreapp2.0\CoreComIdentity.csproj.CoreCompileInputs.cache
+C:\Users\carlosjunior\Documents\Visual Studio 2017\Projects\CoreComIdentity\CoreComIdentity\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\carlosjunior\Documents\Visual Studio 2017\Projects\CoreComIdentity\CoreComIdentity\obj\Debug\netcoreapp2.0\CoreComIdentity.AssemblyInfoInputs.cache
+C:\Users\carlosjunior\Documents\Visual Studio 2017\Projects\CoreComIdentity\CoreComIdentity\obj\Debug\netcoreapp2.0\CoreComIdentity.AssemblyInfo.cs
+C:\Users\carlosjunior\Documents\Visual Studio 2017\Projects\CoreComIdentity\CoreComIdentity\obj\Debug\netcoreapp2.0\CoreComIdentity.dll
+C:\Users\carlosjunior\Documents\Visual Studio 2017\Projects\CoreComIdentity\CoreComIdentity\obj\Debug\netcoreapp2.0\CoreComIdentity.pdb
+C:\Users\carlosjunior\Documents\Visual Studio 2017\Projects\CoreComIdentity\CoreComIdentity\obj\Debug\netcoreapp2.0\CoreComIdentity.csprojResolveAssemblyReference.cache
